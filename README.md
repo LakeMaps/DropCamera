@@ -1,2 +1,2 @@
 # DropCamera
-LakeMapsNL Repository for a 300m drop camera
+LakeMapsNL Repository for a 500m drop camera
